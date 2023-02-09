@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PROGRAM PERPUSTAKAAN
+</name>
+</assembly>
+<members>
+<member name="T:PROGRAM_PERPUSTAKAAN.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._1077063_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._167755">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._2417791_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._2417791_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._3145765">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._3145765_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._3237472">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._3237472_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._6785377">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._9436365">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._9436365_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources._9546464">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.BACK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.book_2814026_1920_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.buku_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.buku2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.buku2_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.DELETE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.DELETE_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.EDIT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.images__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.images__3__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.istockphoto_504618192_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.key_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.LAPORAN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.LAPORAN_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.MEMBER_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.pinjam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.report_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.report2_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.save1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.save2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.save3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.user_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.user_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_26_at_21_09_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_26_at_21_09_16_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_26_at_21_091">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_26_at_21_16_12_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_31_at_11_48_52">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PROGRAM_PERPUSTAKAAN.My.Resources.Resources.WhatsApp_Image_2023_01_31_at_12_01_22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
